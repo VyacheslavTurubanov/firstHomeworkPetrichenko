@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0cd3f6cc-636d-4fd1-a67e-83b1d775b6ff" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-    </list>
+    <list default="true" id="0cd3f6cc-636d-4fd1-a67e-83b1d775b6ff" name="Changes" comment="create objects" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,8 +47,16 @@
       <option name="presentableId" value="Default" />
       <updated>1665069271030</updated>
       <workItem from="1665069272609" duration="6993000" />
-      <workItem from="1665084983083" duration="651000" />
+      <workItem from="1665084983083" duration="940000" />
     </task>
+    <task id="LOCAL-00001" summary="create objects">
+      <created>1665085787087</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665085787087</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,5 +72,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create objects" />
+    <option name="LAST_COMMIT_MESSAGE" value="create objects" />
   </component>
 </project>
